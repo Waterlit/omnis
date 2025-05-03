@@ -1,0 +1,25 @@
+{
+  "pages": {
+    "/profile/tarot/[layout]/page": [
+      "static/chunks/node_modules_8fd92dbb._.js",
+      "static/chunks/[root-of-the-server]__f0dbbd79._.js",
+      "static/chunks/[next]_internal_font_google_7a2ae30a._.css",
+      "static/chunks/src_app_layout_tsx_c0237562._.js",
+      "static/chunks/src_app_profile_layout_tsx_f8ecdb21._.js",
+      "static/chunks/node_modules_@mui_material_esm_b3802496._.js",
+      "static/chunks/node_modules_next_15251bc2._.js",
+      "static/chunks/node_modules_swiper_56ba2b48._.js",
+      "static/chunks/node_modules_56b00f69._.js",
+      "static/chunks/src_94d91c6e._.js",
+      "static/chunks/node_modules_swiper_469bf133._.css",
+      "static/chunks/src_app_profile_tarot_[layout]_page_tsx_d19bef2e._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_fd44f5a4._.js",
+      "static/chunks/node_modules_next_dist_compiled_2ce9398a._.js",
+      "static/chunks/node_modules_next_dist_client_8f19e6fb._.js",
+      "static/chunks/node_modules_next_dist_2ecbf5fa._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636ac3._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_93808211._.js"
+    ]
+  }
+}

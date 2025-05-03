@@ -1,0 +1,12 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/src/app/profile/biorhythms/[day]/page": [
+      "static/media/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmQiAr0klQmz24O0g.p.0fe553a1.woff2",
+      "static/media/vEFF2_tTDB4M7_auWDN0ahZJW3IX2ih5nk3AucvUHf6kCXr4Y3qwzSEi.p.f4b6b894.woff2",
+      "static/media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n_wU.p.927aef78.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": false,
+  "pagesUsingSizeAdjust": false
+}
